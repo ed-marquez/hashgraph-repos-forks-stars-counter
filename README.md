@@ -60,7 +60,3 @@ The script generates a CSV file named `hashgraph-repos-stats-YYYY-MM-DD.csv` con
 - `html_url`: URL of the repository.
 - `forks_count`: Number of forks.
 - `stargazers_count`: Number of stars.
-
-```
-
-```

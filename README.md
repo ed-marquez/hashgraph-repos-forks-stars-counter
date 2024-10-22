@@ -47,10 +47,6 @@ This Node.js script fetches public, non-archived repositories from the `hashgrap
    npm run start
    ```
 
-   ```bash
-   node index.js
-   ```
-
 This will fetch the repository data and generate a CSV file with the repository URLs, forks, and stars.
 
 ## Output

@@ -65,7 +65,7 @@ async function aggregateStarsAndForks(org) {
 	const formattedDate = today.toISOString().split("T")[0]; // Extract the yyyy-mm-dd part from ISO string
 
 	// Generate the file name with the current date
-	const fileName = `hashgraph-repos-stats-${formattedDate}.csv`;
+	const fileName = `./hashgraph-public-repos-stats/hashgraph-repos-stats-${formattedDate}.csv`;
 
 	// Write the CSV content to a file with the generated file name
 	writeFileSync(fileName, csvContent, "utf8");

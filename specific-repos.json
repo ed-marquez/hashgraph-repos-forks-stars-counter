@@ -1,0 +1,22 @@
+[
+	"https://github.com/hashgraph/hedera-services",
+	"https://github.com/hashgraph/hedera-sdk-js",
+	"https://github.com/hashgraph/hedera-sdk-java",
+	"https://github.com/hashgraph/hedera-improvement-proposal",
+	"https://github.com/hashgraph/hedera-mirror-node",
+	"https://github.com/hashgraph/hedera-sdk-go",
+	"https://github.com/hashgraph/hedera-docs",
+	"https://github.com/hashgraph/hedera-local-node",
+	"https://github.com/hashgraph/hedera-json-rpc-relay",
+	"https://github.com/hashgraph/hedera-sdk-rust",
+	"https://github.com/hashgraph/hedera-protobufs",
+	"https://github.com/hashgraph/did-sdk-js",
+	"https://github.com/hashgraph/hedera-mirror-node-explorer",
+	"https://github.com/hashgraph/did-sdk-java",
+	"https://github.com/hashgraph/hedera-sdk-swift",
+	"https://github.com/hashgraph/hedera-sdk-cpp",
+	"https://github.com/hashgraph/did-method",
+	"https://github.com/hashgraph/solo",
+	"https://github.com/hashgraph/hedera-block-node",
+	"https://github.com/hashgraph/hedera-sdk-tck"
+]
